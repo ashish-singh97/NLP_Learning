@@ -1,0 +1,38 @@
+# Core NLP
+nltk
+spacy
+textblob
+
+# Machine Learning
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+svgling
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+#tensorflow -- available in python 3.12
+
+# Hugging Face Ecosystem
+transformers
+datasets
+tokenizers
+sentence-transformers
+
+# Utilities
+tqdm
+joblib
+regex
+
+# Jupyter (Optional)
+jupyter
+ipykernel
+notebook
